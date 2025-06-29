@@ -1,4 +1,5 @@
-Lab: Create your first REST API with Spring Boot
+# Lab: Create your first REST API with Spring Boot #
+
  In this lab, you will learn about how to create your first REST API with Spring Boot.
 
 
